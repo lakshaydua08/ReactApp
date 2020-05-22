@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lakshaydua08/ReactApp.git/static/css/main.e42ea2a6.chunk.css",
+    "main.js": "/lakshaydua08/ReactApp.git/static/js/main.ccfe88c6.chunk.js",
+    "main.js.map": "/lakshaydua08/ReactApp.git/static/js/main.ccfe88c6.chunk.js.map",
+    "runtime-main.js": "/lakshaydua08/ReactApp.git/static/js/runtime-main.8b1976f9.js",
+    "runtime-main.js.map": "/lakshaydua08/ReactApp.git/static/js/runtime-main.8b1976f9.js.map",
+    "static/js/2.fa620cb4.chunk.js": "/lakshaydua08/ReactApp.git/static/js/2.fa620cb4.chunk.js",
+    "static/js/2.fa620cb4.chunk.js.map": "/lakshaydua08/ReactApp.git/static/js/2.fa620cb4.chunk.js.map",
+    "index.html": "/lakshaydua08/ReactApp.git/index.html",
+    "precache-manifest.cdda8c63289672c67cde95ebe3e81ef5.js": "/lakshaydua08/ReactApp.git/precache-manifest.cdda8c63289672c67cde95ebe3e81ef5.js",
+    "service-worker.js": "/lakshaydua08/ReactApp.git/service-worker.js",
+    "static/css/main.e42ea2a6.chunk.css.map": "/lakshaydua08/ReactApp.git/static/css/main.e42ea2a6.chunk.css.map",
+    "static/js/2.fa620cb4.chunk.js.LICENSE.txt": "/lakshaydua08/ReactApp.git/static/js/2.fa620cb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1976f9.js",
+    "static/js/2.fa620cb4.chunk.js",
+    "static/css/main.e42ea2a6.chunk.css",
+    "static/js/main.ccfe88c6.chunk.js"
+  ]
+}
