@@ -3,8 +3,14 @@
 }
 
 body {
-  font: 14px "Century Gothic", Futura, sans-serif;
-  margin: 20px;
+  font: 20px "Century Gothic", Futura, sans-serif;
+  margin: -20px;
+  display: flex;
+  justify-content: center;
+  height:100%;
+  width:100%;
+  margin-top: 20px;
+  background-color: sandybrown;
 }
 
 ol, ul {
@@ -21,19 +27,23 @@ ol, ul {
   margin-bottom: 10px;
 }
 
+
+
+
 .square {
   background: rgb(131, 37, 37);
-  border: 2px solid rgb(40, 134, 87);
+  border: 5px solid rgb(40, 134, 87);
   float: left;
-  font-size: 24px;
+  font-size: 54px;
+  color:rosybrown ;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 80px;
   margin-right: -1px;
   margin-top: -1px;
-  padding: 0;
+  padding: 5;
   text-align: center;
-  width: 34px;
+  width: 80px;
   ;
 }
 
